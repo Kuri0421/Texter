@@ -1,7 +1,9 @@
 <img src="/image/Texter.png" width="400px">
 
-## Texter
-Texter is plugin that displays and deletes FloatingTextPerticle supported to multi-world.  
+## Texter 🥄Edition
+ゆこさんのTexterを🔪(フォーク)した物が残っていたのでこのまま残しておきます。
+帰ってきてくれる日を待っています…
+Texter is plugin that displays and deletes FloatingTextPerticle supported to multi-world.  
 Latest: ver **2.1.6** _Convallaria majalis(鈴蘭)_  
 
 ### Supporting
